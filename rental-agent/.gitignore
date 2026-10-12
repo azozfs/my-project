@@ -1,0 +1,7 @@
+.env
+data/agent.db
+data/units.json
+data/*.xlsx
+__pycache__/
+*.tmp
+.pytest_cache/
